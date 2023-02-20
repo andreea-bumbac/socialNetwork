@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane fx:id="MsgAnchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="61.0" prefWidth="300.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.appjavafx.MsgController">
+   <children>
+      <Label fx:id="NMsgLabel" layoutX="14.0" layoutY="18.0" prefHeight="30.0" prefWidth="64.0" text="Label" />
+      <Label fx:id="CMsgLabel" layoutX="102.0" layoutY="18.0" prefHeight="30.0" prefWidth="188.0" text="Label" />
+   </children>
+</AnchorPane>
